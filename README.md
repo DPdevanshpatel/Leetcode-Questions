@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/DPdevanshpatel/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/DPdevanshpatel/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/DPdevanshpatel/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0268-missing-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DPdevanshpatel/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DPdevanshpatel/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/DPdevanshpatel/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1652-defuse-the-bomb](https://github.com/DPdevanshpatel/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DPdevanshpatel/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
@@ -79,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DPdevanshpatel/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DPdevanshpatel/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/DPdevanshpatel/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DPdevanshpatel/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/DPdevanshpatel/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DPdevanshpatel/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DPdevanshpatel/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DPdevanshpatel/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DPdevanshpatel/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
