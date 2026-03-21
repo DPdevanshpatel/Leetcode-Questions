@@ -11,24 +11,22 @@
  */
 class Solution {
 public:
-    bool isIdentical(TreeNode* root, TreeNode* subroot){
-        if(root==NULL && subroot==NULL)
-        {
-            return true;
-        }
-        if(root==NULL || subroot==NULL){
-            return false;
-        }
 
-        return (root->val == subroot->val) && isIdentical(root->left,subroot->left) && isIdentical(root->right, subroot->right);
+    bool isidentical(TreeNode* root, TreeNode* root2)
+    {
+        if(root==NULL || root2==NULL) return root==root2;
+
+        bool lefttree = isidentical(root->left,root2->left);
+        bool righttree = isidentical(root->right,root2->right);
+
+        return lefttree && righttree && root->val==root2->val;
     }
+
     bool isSubtree(TreeNode* root, TreeNode* subroot) {
-        
-        if(subroot==NULL) return true;
-        if(root==NULL) return false;
-        if((root->val==subroot->val) && isIdentical(root,subroot)){
-            return true;
-        }
+        if(root==NULL || subroot==NULL) return root==subroot;
+
+        if(root->val==subroot->val && isidentical(root,subroot)) return true;
+
         return isSubtree(root->left,subroot) || isSubtree(root->right,subroot);
     }
 };
