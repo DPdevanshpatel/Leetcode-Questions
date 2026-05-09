@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0507-perfect-number) |
 | [2396-strictly-palindromic-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0002-add-two-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/DPdevanshpatel/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/DPdevanshpatel/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
