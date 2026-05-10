@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/DPdevanshpatel/Leetcode/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DPdevanshpatel/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0989-add-to-array-form-of-integer](https://github.com/DPdevanshpatel/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/DPdevanshpatel/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0507-perfect-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/DPdevanshpatel/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [2396-strictly-palindromic-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
