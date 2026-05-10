@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/DPdevanshpatel/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/DPdevanshpatel/Leetcode/tree/master/0242-valid-anagram) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/DPdevanshpatel/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Sorting
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DPdevanshpatel/Leetcode/tree/master/0067-add-binary) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/DPdevanshpatel/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0507-perfect-number) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DPdevanshpatel/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Counting
