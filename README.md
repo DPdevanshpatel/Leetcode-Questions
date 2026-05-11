@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/DPdevanshpatel/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/DPdevanshpatel/Leetcode/tree/master/2652-sum-multiples) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DPdevanshpatel/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1486-xor-operation-in-an-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/DPdevanshpatel/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
