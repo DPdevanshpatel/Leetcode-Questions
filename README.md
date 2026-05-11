@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DPdevanshpatel/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/DPdevanshpatel/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2351-first-letter-to-appear-twice](https://github.com/DPdevanshpatel/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DPdevanshpatel/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/DPdevanshpatel/Leetcode/tree/master/0415-add-strings) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/DPdevanshpatel/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2351-first-letter-to-appear-twice](https://github.com/DPdevanshpatel/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -146,11 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DPdevanshpatel/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [2351-first-letter-to-appear-twice](https://github.com/DPdevanshpatel/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DPdevanshpatel/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/DPdevanshpatel/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2351-first-letter-to-appear-twice](https://github.com/DPdevanshpatel/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
