@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/DPdevanshpatel/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DPdevanshpatel/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
