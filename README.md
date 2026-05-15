@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/DPdevanshpatel/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/DPdevanshpatel/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/DPdevanshpatel/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/DPdevanshpatel/Leetcode/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DPdevanshpatel/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DPdevanshpatel/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/DPdevanshpatel/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/DPdevanshpatel/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DPdevanshpatel/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DPdevanshpatel/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DPdevanshpatel/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/DPdevanshpatel/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/DPdevanshpatel/Leetcode/tree/master/0415-add-strings) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/DPdevanshpatel/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/DPdevanshpatel/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/DPdevanshpatel/Leetcode/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DPdevanshpatel/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
