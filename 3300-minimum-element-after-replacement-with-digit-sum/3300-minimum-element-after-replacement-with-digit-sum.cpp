@@ -1,7 +1,6 @@
 class Solution {
 public:
     int minElement(vector<int>& nums) {
-        vector<int> v;
         int a = INT_MAX;
         for(int i=0; i<nums.size(); i++)
         {
