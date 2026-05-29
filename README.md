@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/DPdevanshpatel/Leetcode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/DPdevanshpatel/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DPdevanshpatel/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/DPdevanshpatel/Leetcode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/DPdevanshpatel/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DPdevanshpatel/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Brainteaser
 |  |
 | ------- |
