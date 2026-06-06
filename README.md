@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DPdevanshpatel/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/DPdevanshpatel/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/DPdevanshpatel/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/DPdevanshpatel/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/2974-minimum-number-game) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/DPdevanshpatel/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DPdevanshpatel/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2574-left-and-right-sum-differences](https://github.com/DPdevanshpatel/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## String
 |  |
 | ------- |
