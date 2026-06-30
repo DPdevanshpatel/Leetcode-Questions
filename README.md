@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DPdevanshpatel/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/DPdevanshpatel/Leetcode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/DPdevanshpatel/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DPdevanshpatel/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/DPdevanshpatel/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/DPdevanshpatel/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DPdevanshpatel/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/DPdevanshpatel/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DPdevanshpatel/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
