@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/DPdevanshpatel/Leetcode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/DPdevanshpatel/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DPdevanshpatel/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/DPdevanshpatel/Leetcode/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
