@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/DPdevanshpatel/Leetcode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/DPdevanshpatel/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DPdevanshpatel/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DPdevanshpatel/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/DPdevanshpatel/Leetcode/tree/master/3024-type-of-triangle) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/DPdevanshpatel/Leetcode/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2974-minimum-number-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/2974-minimum-number-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DPdevanshpatel/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DPdevanshpatel/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/3765-complete-prime-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -392,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/DPdevanshpatel/Leetcode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DPdevanshpatel/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/3765-complete-prime-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
