@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/DPdevanshpatel/Leetcode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/DPdevanshpatel/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DPdevanshpatel/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DPdevanshpatel/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/DPdevanshpatel/Leetcode/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DPdevanshpatel/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/DPdevanshpatel/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2351-first-letter-to-appear-twice](https://github.com/DPdevanshpatel/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DPdevanshpatel/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DPdevanshpatel/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DPdevanshpatel/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DPdevanshpatel/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2574-left-and-right-sum-differences](https://github.com/DPdevanshpatel/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DPdevanshpatel/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/DPdevanshpatel/Leetcode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/DPdevanshpatel/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DPdevanshpatel/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DPdevanshpatel/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DPdevanshpatel/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -289,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DPdevanshpatel/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/DPdevanshpatel/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2351-first-letter-to-appear-twice](https://github.com/DPdevanshpatel/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DPdevanshpatel/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
 | ------- |
@@ -417,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DPdevanshpatel/Leetcode/tree/master/0258-add-digits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DPdevanshpatel/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DPdevanshpatel/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -442,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/1025-divisor-game) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/DPdevanshpatel/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
