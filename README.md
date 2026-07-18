@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/DPdevanshpatel/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/DPdevanshpatel/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DPdevanshpatel/Leetcode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/DPdevanshpatel/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/DPdevanshpatel/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DPdevanshpatel/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/DPdevanshpatel/Leetcode/tree/master/1952-three-divisors) |
 | [3765-complete-prime-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/3765-complete-prime-number) |
 ## Greedy
 |  |
