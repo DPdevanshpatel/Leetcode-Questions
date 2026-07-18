@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DPdevanshpatel/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/DPdevanshpatel/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/DPdevanshpatel/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/DPdevanshpatel/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DPdevanshpatel/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/DPdevanshpatel/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2974-minimum-number-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/DPdevanshpatel/Leetcode/tree/master/3024-type-of-triangle) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DPdevanshpatel/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/DPdevanshpatel/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/DPdevanshpatel/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/DPdevanshpatel/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DPdevanshpatel/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
