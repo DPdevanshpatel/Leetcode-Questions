@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/DPdevanshpatel/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DPdevanshpatel/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0371-sum-of-two-integers) |
