@@ -23,7 +23,6 @@ class Solution {
         }
 
         List<Integer> ans = new ArrayList<>();
-
         while (!pq.isEmpty())
             ans.add(pq.poll());
 
