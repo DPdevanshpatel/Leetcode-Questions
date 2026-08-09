@@ -587,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/DPdevanshpatel/Leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/DPdevanshpatel/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/DPdevanshpatel/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DPdevanshpatel/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
