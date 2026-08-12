@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/DPdevanshpatel/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/DPdevanshpatel/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/DPdevanshpatel/Leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DPdevanshpatel/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DPdevanshpatel/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DPdevanshpatel/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/DPdevanshpatel/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DPdevanshpatel/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/DPdevanshpatel/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/DPdevanshpatel/Leetcode/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/DPdevanshpatel/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/DPdevanshpatel/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DPdevanshpatel/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/DPdevanshpatel/Leetcode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DPdevanshpatel/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Game Theory
 |  |
@@ -603,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DPdevanshpatel/Leetcode/tree/master/0020-valid-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/DPdevanshpatel/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
