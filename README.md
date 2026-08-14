@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/DPdevanshpatel/Leetcode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/DPdevanshpatel/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/DPdevanshpatel/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/DPdevanshpatel/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/DPdevanshpatel/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/DPdevanshpatel/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/DPdevanshpatel/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/DPdevanshpatel/Leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DPdevanshpatel/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DPdevanshpatel/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1441-build-an-array-with-stack-operations](https://github.com/DPdevanshpatel/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DPdevanshpatel/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
