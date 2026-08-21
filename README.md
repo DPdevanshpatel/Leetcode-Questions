@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/DPdevanshpatel/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/DPdevanshpatel/Leetcode/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/DPdevanshpatel/Leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/DPdevanshpatel/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/DPdevanshpatel/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DPdevanshpatel/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DPdevanshpatel/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DPdevanshpatel/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DPdevanshpatel/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0706-design-hashmap](https://github.com/DPdevanshpatel/Leetcode/tree/master/0706-design-hashmap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DPdevanshpatel/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DPdevanshpatel/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/DPdevanshpatel/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/DPdevanshpatel/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/DPdevanshpatel/Leetcode/tree/master/0641-design-circular-deque) |
+| [0706-design-hashmap](https://github.com/DPdevanshpatel/Leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/DPdevanshpatel/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DPdevanshpatel/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DPdevanshpatel/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/DPdevanshpatel/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/DPdevanshpatel/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/DPdevanshpatel/Leetcode/tree/master/0641-design-circular-deque) |
+| [0706-design-hashmap](https://github.com/DPdevanshpatel/Leetcode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/DPdevanshpatel/Leetcode/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/DPdevanshpatel/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/DPdevanshpatel/Leetcode/tree/master/0706-design-hashmap) |
 ## Binary Search Tree
 |  |
 | ------- |
