@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DPdevanshpatel/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DPdevanshpatel/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/DPdevanshpatel/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1927-sum-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DPdevanshpatel/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/DPdevanshpatel/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/DPdevanshpatel/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/DPdevanshpatel/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [1927-sum-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/DPdevanshpatel/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/DPdevanshpatel/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/DPdevanshpatel/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DPdevanshpatel/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1927-sum-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/1927-sum-game) |
 ## Memoization
 |  |
 | ------- |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/1025-divisor-game) |
+| [1927-sum-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/1927-sum-game) |
 ## Combinatorics
 |  |
 | ------- |
