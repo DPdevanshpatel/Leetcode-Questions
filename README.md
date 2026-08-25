@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/DPdevanshpatel/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3467-transform-array-by-parity](https://github.com/DPdevanshpatel/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/DPdevanshpatel/Leetcode/tree/master/3502-minimum-cost-to-reach-every-position) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DPdevanshpatel/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/DPdevanshpatel/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DPdevanshpatel/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DPdevanshpatel/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DPdevanshpatel/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
