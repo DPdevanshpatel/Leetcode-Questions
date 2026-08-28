@@ -3,17 +3,20 @@ class Solution {
         
         HashSet<Integer> set = new HashSet<>();
         int[] arr = new int[2];
+        int sum=0;
         for(int num : nums){
             if(set.contains(num)){
                 arr[0]=num;
+            }else{
+                set.add(num);
+                sum+=num;
             }
-            set.add(num);
         }
 
-        int sum=0;
-        for(int num:set){
-            sum+=num;
-        }
+        // int sum=0;
+        // for(int num:set){
+        //     sum+=num;
+        // }
 
         int sum2=0;
         for(int i=1; i<=nums.length; i++){
