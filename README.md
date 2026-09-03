@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-minimum-cost-to-reach-every-position](https://github.com/DPdevanshpatel/Leetcode/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DPdevanshpatel/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/DPdevanshpatel/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DPdevanshpatel/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/DPdevanshpatel/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Brainteaser
 |  |
 | ------- |
