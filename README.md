@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/DPdevanshpatel/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DPdevanshpatel/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0946-validate-stack-sequences](https://github.com/DPdevanshpatel/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/DPdevanshpatel/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/DPdevanshpatel/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/DPdevanshpatel/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/DPdevanshpatel/Leetcode/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/DPdevanshpatel/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/DPdevanshpatel/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/DPdevanshpatel/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/DPdevanshpatel/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/DPdevanshpatel/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/DPdevanshpatel/Leetcode/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/DPdevanshpatel/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DPdevanshpatel/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DPdevanshpatel/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/DPdevanshpatel/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
