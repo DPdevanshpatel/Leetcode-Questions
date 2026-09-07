@@ -9,6 +9,6 @@ class Solution {
             max=Math.max(max,nums[i]);
         }
 
-        return Math.max(0,max-min-2*k);
+        return Math.max(0,(max-k)-(min+k));
     }
 }
