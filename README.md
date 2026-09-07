@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/DPdevanshpatel/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DPdevanshpatel/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DPdevanshpatel/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/DPdevanshpatel/Leetcode/tree/master/0415-add-strings) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/DPdevanshpatel/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/DPdevanshpatel/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/DPdevanshpatel/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/DPdevanshpatel/Leetcode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DPdevanshpatel/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/DPdevanshpatel/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DPdevanshpatel/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DPdevanshpatel/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DPdevanshpatel/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
