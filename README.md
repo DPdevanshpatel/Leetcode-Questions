@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/DPdevanshpatel/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DPdevanshpatel/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/DPdevanshpatel/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/DPdevanshpatel/Leetcode/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DPdevanshpatel/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/DPdevanshpatel/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/DPdevanshpatel/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DPdevanshpatel/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DPdevanshpatel/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DPdevanshpatel/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/DPdevanshpatel/Leetcode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/DPdevanshpatel/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/DPdevanshpatel/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/DPdevanshpatel/Leetcode/tree/master/1672-richest-customer-wealth) |
