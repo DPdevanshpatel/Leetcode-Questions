@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/DPdevanshpatel/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/DPdevanshpatel/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/DPdevanshpatel/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/DPdevanshpatel/Leetcode/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/DPdevanshpatel/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DPdevanshpatel/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/DPdevanshpatel/Leetcode/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/DPdevanshpatel/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Quickselect
 |  |
